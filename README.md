@@ -4,9 +4,11 @@
   </a>
 </p>
 
-<h3 align="center" style="color:#F70000; font-weight: 900; margin-top: -20px; margin-bottom: 10px;">
-  Anik Shahrier
-</h3>
+<p align="center" style="margin-top: -20px; margin-bottom: 10px;">
+  <span style="color: #F70000 !important; font-weight: 900; font-size: 28px;">
+    Anik Shahrier
+  </span>
+</p>
 
 
 <p align="center">
