@@ -1,0 +1,36 @@
+<svg width="440" height="45" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; height: 100%; font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;">
+      <span id="text"></span>
+    </div>
+    <script type="application/ecmascript">
+      <![CDATA[
+        const lines = [
+          "Full-stack web and app developer",
+          "Experienced UI/UX Designer",
+          "10+ years of coding experience",
+          "Always learning new things"
+        ];
+
+        let index = 0;
+        let charIndex = 0;
+        const textElement = document.getElementById("text");
+
+        function typeLine() {
+          if (charIndex <= lines[index].length) {
+            textElement.textContent = lines[index].substring(0, charIndex++);
+            setTimeout(typeLine, 100);
+          } else {
+            setTimeout(() => {
+              charIndex = 0;
+              index = (index + 1) % lines.length;
+              typeLine();
+            }, 1000);
+          }
+        }
+
+        typeLine();
+      ]]>
+    </script>
+  </foreignObject>
+</svg>
