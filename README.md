@@ -20,10 +20,39 @@
 
   <p align="left">
     <a href="https://github.com/AnikShahrier/3D-dress-designer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="3D-dress-designer"></a>
+    <ul>
+      <li>Interactive 3D dress designing web app using Three.js</li>
+      <li>Real-time fabric texture customization</li>
+      <li>Responsive UI with smooth animations</li>
+    </ul>
+
     <a href="https://github.com/AnikShahrier/Airbnd"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Airbnd"></a>
+    <ul>
+      <li>Full-stack Airbnb clone with React & Node.js</li>
+      <li>Integrated payment system using Stripe</li>
+      <li>Search & filter accommodations dynamically</li>
+    </ul>
+
     <a href="https://github.com/AnikShahrier/Keeper"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Keeper"></a>
+    <ul>
+      <li>Note-taking app with React & Firebase</li>
+      <li>Supports creating, editing & deleting notes</li>
+      <li>Simple, clean, and user-friendly design</li>
+    </ul>
+
     <a href="https://github.com/AnikShahrier/MovieHUB"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MovieHUB"></a>
+    <ul>
+      <li>Movie discovery app with TMDb API integration</li>
+      <li>Dynamic search and genre filtering</li>
+      <li>Responsive design optimized for all devices</li>
+    </ul>
+
     <a href="https://github.com/AnikShahrier/MinimalAPI"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MinimalAPI"></a>
+    <ul>
+      <li>Lightweight RESTful API built with minimal dependencies</li>
+      <li>Easy to extend and maintain for backend services</li>
+      <li>Focus on performance and clean code practices</li>
+    </ul>
   </p>
 
   <a href="https://github.com/AnikShahrier?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
