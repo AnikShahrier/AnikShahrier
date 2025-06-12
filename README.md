@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #ffffff; font-size: 28px; font-weight: 900; margin-top: -20px; margin-bottom: 10px; text-shadow: 1px 1px 4px rgba(0,0,0,0.7);">
+<h3 align="center" style="color: #F70000; font-weight: 900; margin-top: -20px; margin-bottom: 10px; text-shadow: 1px 1px 4px rgba(0,0,0,0.5);">
   Anik Shahrier
 </h3>
 
