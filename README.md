@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AnikShahrier">
-    <img src="circular_image.svg" alt="Anik Shahrier" width="200" />
+    <img src="circular_typing_svg.html" alt="Anik Shahrier" width="200" />
   </a>
 </p>
 <p align="center">
