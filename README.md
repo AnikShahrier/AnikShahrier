@@ -4,15 +4,7 @@
   </a>
 </p>
 
-<h3 align="center" style="
-  color: #F70000;
-  font-weight: 900;
-  font-size: 28px;
-  margin-top: -20px;
-  margin-bottom: 10px;
-  text-transform: uppercase;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
-">
+<h3 align="center" style="color:#F70000; font-weight: 900; margin-top: -20px; margin-bottom: 10px;">
   Anik Shahrier
 </h3>
 
