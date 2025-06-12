@@ -50,12 +50,12 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233267A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233267A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 
