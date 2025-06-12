@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AnikShahrier">
-    <img src="https://raw.githubusercontent.com/AnikShahrier/profile-assets/main/profile.png" alt="Anik Shahrier" width="200" />
+    <img src="https://raw.githubusercontent.com/AnikShahrier/profileimage/main/profile.png" alt="Anik Shahrier" width="200" />
   </a>
 </p>
 
