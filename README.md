@@ -5,17 +5,17 @@
 </p>
 
 <h3 align="center" style="
-  background: linear-gradient(90deg, #F70000, #FF5733);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #F70000;
   font-weight: 900;
-  font-size: 32px;
+  font-size: 28px;
   margin-top: -20px;
   margin-bottom: 10px;
-  text-shadow: 0 0 6px rgba(247, 0, 0, 0.7);
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 ">
   Anik Shahrier
 </h3>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
