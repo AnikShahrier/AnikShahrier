@@ -19,7 +19,7 @@
 
 - **Languages**:
   
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-  ![Hapi.js](https://img.shields.io/badge/Hapi.js-%23000000.svg?style=for-the-badge&logo=hapi&logoColor=00A9E0)
+  ![Hapi.js](https://img.shields.io/badge/Hapi.js-%2300A9E0.svg?style=for-the-badge&logo=hapi&logoColor=white)
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233267A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
