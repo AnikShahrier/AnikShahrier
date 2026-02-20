@@ -77,64 +77,55 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details open>
-  <summary>
-    <h2>🚀 Featured Open Source Projects</h2>
-  </summary>
+  <summary><h2>🚀 Featured Projects</h2></summary>
 
   <br/>
 
   <p align="center">
-
-    <!-- 3D Dress Designer -->
-    <img src="https://skillicons.dev/icons?i=react,threejs,js" />
-    <br/>
     <a href="https://github.com/AnikShahrier/3D-dress-designer">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&bg_color=1F222E&title_color=00F7FF&hide_border=true&icon_color=F8D866" />
+      <img src="https://skillicons.dev/icons?i=react,threejs,js" />
+      <br/>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&hide_border=true" />
     </a>
+  </p>
 
-    <br/><br/>
-
-    <!-- Airbnb Clone -->
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
-    <br/>
+  <p align="center">
     <a href="https://github.com/AnikShahrier/Airbnd">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&bg_color=1F222E&title_color=FF6B6B&hide_border=true&icon_color=F8D866" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+      <br/>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&hide_border=true" />
     </a>
+  </p>
 
-    <br/><br/>
-
-    <!-- Keeper -->
-    <img src="https://skillicons.dev/icons?i=react,js,css" />
-    <br/>
+  <p align="center">
     <a href="https://github.com/AnikShahrier/Keeper">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&bg_color=1F222E&title_color=FFD93D&hide_border=true&icon_color=F8D866" />
+      <img src="https://skillicons.dev/icons?i=react,js,css" />
+      <br/>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&hide_border=true" />
     </a>
+  </p>
 
-    <br/><br/>
-
-    <!-- MovieHub -->
-    <img src="https://skillicons.dev/icons?i=react,api,js" />
-    <br/>
+  <p align="center">
     <a href="https://github.com/AnikShahrier/MovieHUB">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&bg_color=1F222E&title_color=9D4EDD&hide_border=true&icon_color=F8D866" />
+      <img src="https://skillicons.dev/icons?i=react,api,js" />
+      <br/>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&hide_border=true" />
     </a>
+  </p>
 
-    <br/><br/>
-
-    <!-- Minimal API -->
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
-    <br/>
+  <p align="center">
     <a href="https://github.com/AnikShahrier/MinimalAPI">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&bg_color=1F222E&title_color=00C896&hide_border=true&icon_color=F8D866" />
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
+      <br/>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&hide_border=true" />
     </a>
-
   </p>
 
   <br/>
 
   <p align="center">
-    <a href="https://github.com/AnikShahrier?tab=repositories&sort=stargazers">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20Repositories-00F7FF?style=for-the-badge&logo=repo&logoColor=black"/>
+    <a href="https://github.com/AnikShahrier?tab=repositories">
+      <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 
