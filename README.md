@@ -77,46 +77,59 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
+  <summary><h2>🚀 Featured Open Source Projects</h2></summary>
 
   <br/>
 
+  <!-- 3D Dress Designer -->
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,threejs,js" />
+    <br/>
     <a href="https://github.com/AnikShahrier/3D-dress-designer">
-      <img src="https://skillicons.dev/icons?i=react,threejs,js" />
-      <br/>
       <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&hide_border=true" />
     </a>
   </p>
 
+  <br/>
+
+  <!-- Airbnd -->
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+    <br/>
     <a href="https://github.com/AnikShahrier/Airbnd">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
-      <br/>
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&hide_border=true" />
+      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShrier&repo=Airbnd&theme=react&hide_border=true" />
     </a>
   </p>
 
+  <br/>
+
+  <!-- Keeper -->
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,js,css" />
+    <br/>
     <a href="https://github.com/AnikShahrier/Keeper">
-      <img src="https://skillicons.dev/icons?i=react,js,css" />
-      <br/>
       <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&hide_border=true" />
     </a>
   </p>
 
+  <br/>
+
+  <!-- MovieHUB -->
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,js" />
+    <br/>
     <a href="https://github.com/AnikShahrier/MovieHUB">
-      <img src="https://skillicons.dev/icons?i=react,api,js" />
-      <br/>
       <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&hide_border=true" />
     </a>
   </p>
 
+  <br/>
+
+  <!-- MinimalAPI -->
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
+    <br/>
     <a href="https://github.com/AnikShahrier/MinimalAPI">
-      <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
-      <br/>
       <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&hide_border=true" />
     </a>
   </p>
