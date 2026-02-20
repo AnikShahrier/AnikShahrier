@@ -18,7 +18,7 @@
 <p align="center">
 
 - **Languages**:
-    
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -32,10 +32,14 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   
   ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+  ![Hapi.js](https://img.shields.io/badge/Hapi.js-%23000000.svg?style=for-the-badge&logo=hapi&logoColor=00A9E0)
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233267A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -54,7 +58,9 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![DBeaver](https://img.shields.io/badge/DBeaver-%2338271F.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+    ![EDB PostgreSQL](https://img.shields.io/badge/EDB%20PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
