@@ -76,16 +76,66 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<details open>
+  <summary>
+    <h2>🚀 Featured Open Source Projects</h2>
+  </summary>
 
-  <p align="left">
-    <a href="https://github.com/AnikShahrier/3D-dress-designer"><img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="3D-dress-designer"></a>
-    <a href="https://github.com/AnikShahrier/Airbnd"><img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Airbnd"></a>
-    <a href="https://github.com/AnikShahrier/Keeper"><img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Keeper"></a>
-    <a href="https://github.com/AnikShahrier/MovieHUB"><img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MovieHUB"></a>
-    <a href="https://github.com/AnikShahrier/MinimalAPI"><img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MinimalAPI"></a>
+  <br/>
+
+  <p align="center">
+
+    <!-- 3D Dress Designer -->
+    <img src="https://skillicons.dev/icons?i=react,threejs,js" />
+    <br/>
+    <a href="https://github.com/AnikShahrier/3D-dress-designer">
+      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&bg_color=1F222E&title_color=00F7FF&hide_border=true&icon_color=F8D866" />
+    </a>
+
+    <br/><br/>
+
+    <!-- Airbnb Clone -->
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+    <br/>
+    <a href="https://github.com/AnikShahrier/Airbnd">
+      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Airbnd&theme=react&bg_color=1F222E&title_color=FF6B6B&hide_border=true&icon_color=F8D866" />
+    </a>
+
+    <br/><br/>
+
+    <!-- Keeper -->
+    <img src="https://skillicons.dev/icons?i=react,js,css" />
+    <br/>
+    <a href="https://github.com/AnikShahrier/Keeper">
+      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&bg_color=1F222E&title_color=FFD93D&hide_border=true&icon_color=F8D866" />
+    </a>
+
+    <br/><br/>
+
+    <!-- MovieHub -->
+    <img src="https://skillicons.dev/icons?i=react,api,js" />
+    <br/>
+    <a href="https://github.com/AnikShahrier/MovieHUB">
+      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&bg_color=1F222E&title_color=9D4EDD&hide_border=true&icon_color=F8D866" />
+    </a>
+
+    <br/><br/>
+
+    <!-- Minimal API -->
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
+    <br/>
+    <a href="https://github.com/AnikShahrier/MinimalAPI">
+      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&bg_color=1F222E&title_color=00C896&hide_border=true&icon_color=F8D866" />
+    </a>
+
   </p>
 
-  <a href="https://github.com/AnikShahrier?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/AnikShahrier?tab=repositories&sort=stargazers">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20Repositories-00F7FF?style=for-the-badge&logo=repo&logoColor=black"/>
+    </a>
+  </p>
+
 </details>
