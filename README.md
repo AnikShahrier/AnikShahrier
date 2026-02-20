@@ -86,7 +86,7 @@
     <img src="https://skillicons.dev/icons?i=react,threejs,js" />
     <br/>
     <a href="https://github.com/AnikShahrier/3D-dress-designer">
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=3D-dress-designer&theme=react&hide_border=true" />
+      ![Dress Custom 1](DressCustom%201.png)
     </a>
   </p>
 
