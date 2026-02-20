@@ -86,7 +86,7 @@
     <img src="https://skillicons.dev/icons?i=react,threejs,js" />
     <br/>
     <a href="https://github.com/AnikShahrier/3D-dress-designer">
-      ![Dress Custom 1](DressCustom%201.png)
+      <img src="DressCustom%201.png" alt="Dress Custom 1" />
     </a>
   </p>
 
