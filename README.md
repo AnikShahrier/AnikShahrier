@@ -81,64 +81,74 @@
 
   <br/>
 
-  <!-- 3D Dress Designer -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,threejs,js" />
-    <br/>
-    <a href="https://github.com/AnikShahrier/3D-dress-designer">
-      <img src="DressCustom%201.png" alt="Dress Custom 1" />
-    </a>
+  <h3>🎨 3D Dress Designer</h3>
+  <p>
+    Interactive 3D fashion configuration tool for customizing and visualizing dresses in real-time.
+  </p>
+  <p>
+    <strong>Technologies:</strong> React, Three.js, JavaScript, WebGL
+  </p>
+  <p>
+    <a href="https://github.com/AnikShahrier/3D-dress-designer">View Repository →</a>
   </p>
 
   <br/>
 
-  <!-- Airbnd -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
-    <br/>
-    <a href="https://github.com/AnikShahrier/Airbnd">
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShrier&repo=Airbnd&theme=react&hide_border=true" />
-    </a>
+  <h3>🏠 Airbnd (Airbnb Clone)</h3>
+  <p>
+    Full-stack booking platform with authentication, property listings, and dynamic routing.
+  </p>
+  <p>
+    <strong>Technologies:</strong> React, Node.js, Express.js, MongoDB
+  </p>
+  <p>
+    <a href="https://github.com/AnikShahrier/Airbnd">View Repository →</a>
   </p>
 
   <br/>
 
-  <!-- Keeper -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,css" />
-    <br/>
-    <a href="https://github.com/AnikShahrier/Keeper">
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=Keeper&theme=react&hide_border=true" />
-    </a>
+  <h3>📝 Keeper</h3>
+  <p>
+    Lightweight note-taking application with dynamic UI updates.
+  </p>
+  <p>
+    <strong>Technologies:</strong> React, JavaScript, CSS
+  </p>
+  <p>
+    <a href="https://github.com/AnikShahrier/Keeper">View Repository →</a>
   </p>
 
   <br/>
 
-  <!-- MovieHUB -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,js" />
-    <br/>
-    <a href="https://github.com/AnikShahrier/MovieHUB">
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MovieHUB&theme=react&hide_border=true" />
-    </a>
+  <h3>🎬 MovieHUB</h3>
+  <p>
+    Movie discovery platform with external API integration and responsive UI.
+  </p>
+  <p>
+    <strong>Technologies:</strong> React, JavaScript, REST API
+  </p>
+  <p>
+    <a href="https://github.com/AnikShahrier/MovieHUB">View Repository →</a>
   </p>
 
   <br/>
 
-  <!-- MinimalAPI -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
-    <br/>
-    <a href="https://github.com/AnikShahrier/MinimalAPI">
-      <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AnikShahrier&repo=MinimalAPI&theme=react&hide_border=true" />
-    </a>
+  <h3>⚙️ MinimalAPI</h3>
+  <p>
+    Backend-focused API project demonstrating clean architecture and database integration.
+  </p>
+  <p>
+    <strong>Technologies:</strong> Node.js, PostgreSQL, Docker
+  </p>
+  <p>
+    <a href="https://github.com/AnikShahrier/MinimalAPI">View Repository →</a>
   </p>
 
   <br/>
 
-  <p align="center">
+  <p>
     <a href="https://github.com/AnikShahrier?tab=repositories">
-      <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <strong>View All Repositories →</strong>
     </a>
   </p>
 
