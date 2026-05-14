@@ -1,5 +1,9 @@
+<!-- <p align="center">
+  <img src="https://github.com/AnikShahrier/AnikShahrier/blob/44f1692e7e81bb65f421f6bbfa86a60c27a1a5ee/js3.gif" width=25% style="border-radius: 20px;" alt="Coding Animation" />
+</p> -->
+
 <p align="center">
-  <img src="https://github.com/AnikShahrier/AnikShahrier/blob/4e929814e2c6af82195878122725cb46c7ba484a/code%20dark.gif" width=25% alt="Coding Animation" />
+  <img src="https://github.com/AnikShahrier/AnikShahrier/blob/44f1692e7e81bb65f421f6bbfa86a60c27a1a5ee/js3.gif" width="30%" style="border-radius: 20px;" alt="Coding Animation" />
 </p>
 
 <h1 align="center"><b>Hi , I'm Anik Shahrier </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -72,7 +76,7 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hapi/hapi-original-wordmark.svg" alt="Hapi.js" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg" alt="Hapi.js" width="65" height="65" />
       <br>Hapi.js
     </td>
     <td align="center" width="96">
@@ -109,7 +113,7 @@
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
+      <br>Render
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="65" height="65" />
